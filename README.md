@@ -13,8 +13,8 @@ The objective of this project is to analyze IT incident data to identify SLA bre
 | Google Colab | Cloud-based analysis       |
 
 *Final Business Insights*
-Key Findings:
 
+Key Findings:
 SLA breaches are highest in Network team
 P1 incidents show unexpected breaches
 SLA adherence needs improvement in high-impact incidents
